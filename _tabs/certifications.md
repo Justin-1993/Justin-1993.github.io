@@ -27,7 +27,9 @@ order: 4
     </td>
   </tr>
   <tr>
-    <td><img src="assets/images/NCL_Badge.png" width="150"  alt="2024 Fall NCL Badge"></td>
+    <td><img src="assets/images/NCL_Badge.png" width="250"  alt="2024 Fall NCL Badge"></td>
+    <td><img src="assets/images/NCL_individual_game.png" width="225"  alt="2024 Fall NCL Individual Game Badge"></td>
+    <td><img src="assets/images/NCL_team_game.png" width="250"  alt="2024 Fall NCL Team Game Badge"></td>
     
   </tr>
 
